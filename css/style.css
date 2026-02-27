@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    text-align: center;
+    background-color: darkcyan;
+    font-size: 1.15rem;
+    /* color: rgb(241, 215, 215); */
+}
+
+header{
+    background-color: rgb(37, 102, 102);
+    width: 100%;
+    padding: 12px 0px;
+    height: 50%;
+}
