@@ -94,7 +94,12 @@ hr{
     width: 30%;
 }
 
+.imagem img{
+    display: block;
+    margin: 0 auto;
+    width: 380px;
+}
+
 .cima{
-    /* margin-top: 3px; */
     padding: 8px;
 }
